@@ -1,0 +1,22 @@
+{
+  "name": "hapijs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericreber/hapijs.git"
+  },
+  "author": "Eric Reber",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ericreber/hapijs/issues"
+  },
+  "homepage": "https://github.com/ericreber/hapijs#readme",
+  "dependencies": {
+    "hapi": "^9.0.2"
+  }
+}
